@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fda8760.chunk.css",
-    "main.js": "/static/js/main.931757a9.chunk.js",
-    "main.js.map": "/static/js/main.931757a9.chunk.js.map",
+    "main.css": "/static/css/main.d4cfc20b.chunk.css",
+    "main.js": "/static/js/main.7a3b4f45.chunk.js",
+    "main.js.map": "/static/js/main.7a3b4f45.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c52fd3bb.js",
     "runtime-main.js.map": "/static/js/runtime-main.c52fd3bb.js.map",
     "static/js/2.1a89ccda.chunk.js": "/static/js/2.1a89ccda.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.94327e3c.chunk.js.map": "/static/js/4.94327e3c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.7202a3eb.chunk.css.map": "/static/css/3.7202a3eb.chunk.css.map",
-    "static/css/main.8fda8760.chunk.css.map": "/static/css/main.8fda8760.chunk.css.map",
+    "static/css/main.d4cfc20b.chunk.css.map": "/static/css/main.d4cfc20b.chunk.css.map",
     "static/js/2.1a89ccda.chunk.js.LICENSE.txt": "/static/js/2.1a89ccda.chunk.js.LICENSE.txt",
+    "static/media/AQI.6492b88e.png": "/static/media/AQI.6492b88e.png",
     "static/media/Auth.3adc55c3.png": "/static/media/Auth.3adc55c3.png",
     "static/media/BBQStreet.e5e45281.jpg": "/static/media/BBQStreet.e5e45281.jpg",
-    "static/media/Bingo.409e2efd.png": "/static/media/Bingo.409e2efd.png",
     "static/media/Calculator.3a1a3829.png": "/static/media/Calculator.3a1a3829.png",
     "static/media/RV-Tigers.7c58490d.png": "/static/media/RV-Tigers.7c58490d.png",
     "static/media/Header.module.css": "/static/media/code-bg.49e35f51.jpg",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.c52fd3bb.js",
     "static/js/2.1a89ccda.chunk.js",
-    "static/css/main.8fda8760.chunk.css",
-    "static/js/main.931757a9.chunk.js"
+    "static/css/main.d4cfc20b.chunk.css",
+    "static/js/main.7a3b4f45.chunk.js"
   ]
 }
