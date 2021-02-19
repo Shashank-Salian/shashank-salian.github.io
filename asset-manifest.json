@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4607be22.chunk.css",
-    "main.js": "/static/js/main.d32879ba.chunk.js",
+    "main.js": "/static/js/main.ca5919e5.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.014f8ce4.js",
-    "static/js/2.fc4a56c3.chunk.js": "/static/js/2.fc4a56c3.chunk.js",
+    "static/js/2.f6b30bdd.chunk.js": "/static/js/2.f6b30bdd.chunk.js",
     "static/css/3.3f132f57.chunk.css": "/static/css/3.3f132f57.chunk.css",
     "static/js/3.6c3f1ef6.chunk.js": "/static/js/3.6c3f1ef6.chunk.js",
     "static/js/4.851f2a12.chunk.js": "/static/js/4.851f2a12.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.fc4a56c3.chunk.js.LICENSE.txt": "/static/js/2.fc4a56c3.chunk.js.LICENSE.txt",
+    "static/js/2.f6b30bdd.chunk.js.LICENSE.txt": "/static/js/2.f6b30bdd.chunk.js.LICENSE.txt",
     "static/media/AQI.6492b88e.png": "/static/media/AQI.6492b88e.png",
     "static/media/Auth.3adc55c3.png": "/static/media/Auth.3adc55c3.png",
     "static/media/Calculator.3a1a3829.png": "/static/media/Calculator.3a1a3829.png",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.014f8ce4.js",
-    "static/js/2.fc4a56c3.chunk.js",
+    "static/js/2.f6b30bdd.chunk.js",
     "static/css/main.4607be22.chunk.css",
-    "static/js/main.d32879ba.chunk.js"
+    "static/js/main.ca5919e5.chunk.js"
   ]
 }
