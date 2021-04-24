@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.86b604bf.chunk.css",
-    "main.js": "/static/js/main.7634e454.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.5773fda5.js",
-    "static/js/2.dacd6304.chunk.js": "/static/js/2.dacd6304.chunk.js",
-    "static/js/3.75de97ec.chunk.js": "/static/js/3.75de97ec.chunk.js",
+    "main.css": "/static/css/main.562f941a.chunk.css",
+    "main.js": "/static/js/main.48b94235.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.25ae622d.js",
+    "static/js/2.b0389845.chunk.js": "/static/js/2.b0389845.chunk.js",
+    "static/js/3.f3c26002.chunk.js": "/static/js/3.f3c26002.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.dacd6304.chunk.js.LICENSE.txt": "/static/js/2.dacd6304.chunk.js.LICENSE.txt",
+    "static/js/2.b0389845.chunk.js.LICENSE.txt": "/static/js/2.b0389845.chunk.js.LICENSE.txt",
     "static/media/AQI.6492b88e.png": "/static/media/AQI.6492b88e.png",
     "static/media/Auth.3adc55c3.png": "/static/media/Auth.3adc55c3.png",
     "static/media/RV-Tigers.7c58490d.png": "/static/media/RV-Tigers.7c58490d.png",
@@ -24,13 +24,14 @@
     "static/media/play-button.c4a81ff9.svg": "/static/media/play-button.c4a81ff9.svg",
     "static/media/python.e995b685.svg": "/static/media/python.e995b685.svg",
     "static/media/react.a4142186.svg": "/static/media/react.a4142186.svg",
+    "static/media/twitter.88d497cc.svg": "/static/media/twitter.88d497cc.svg",
     "static/media/typescript.32ba78d2.svg": "/static/media/typescript.32ba78d2.svg",
     "static/media/youtube.5213846a.svg": "/static/media/youtube.5213846a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5773fda5.js",
-    "static/js/2.dacd6304.chunk.js",
-    "static/css/main.86b604bf.chunk.css",
-    "static/js/main.7634e454.chunk.js"
+    "static/js/runtime-main.25ae622d.js",
+    "static/js/2.b0389845.chunk.js",
+    "static/css/main.562f941a.chunk.css",
+    "static/js/main.48b94235.chunk.js"
   ]
 }
