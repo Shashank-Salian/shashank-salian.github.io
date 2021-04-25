@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.562f941a.chunk.css",
-    "main.js": "/static/js/main.48b94235.chunk.js",
+    "main.css": "/static/css/main.3a77ea3c.chunk.css",
+    "main.js": "/static/js/main.c2106434.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.25ae622d.js",
     "static/js/2.b0389845.chunk.js": "/static/js/2.b0389845.chunk.js",
     "static/js/3.f3c26002.chunk.js": "/static/js/3.f3c26002.chunk.js",
@@ -21,6 +21,7 @@
     "static/media/instagram.02967a62.svg": "/static/media/instagram.02967a62.svg",
     "static/media/javascript.64685095.svg": "/static/media/javascript.64685095.svg",
     "static/media/myPic.3322ae28.png": "/static/media/myPic.3322ae28.png",
+    "static/media/nextjs.1b2b52c0.svg": "/static/media/nextjs.1b2b52c0.svg",
     "static/media/play-button.c4a81ff9.svg": "/static/media/play-button.c4a81ff9.svg",
     "static/media/python.e995b685.svg": "/static/media/python.e995b685.svg",
     "static/media/react.a4142186.svg": "/static/media/react.a4142186.svg",
@@ -31,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.25ae622d.js",
     "static/js/2.b0389845.chunk.js",
-    "static/css/main.562f941a.chunk.css",
-    "static/js/main.48b94235.chunk.js"
+    "static/css/main.3a77ea3c.chunk.css",
+    "static/js/main.c2106434.chunk.js"
   ]
 }
